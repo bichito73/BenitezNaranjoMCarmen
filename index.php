@@ -1,3 +1,3 @@
 <?php
-echo "Hola mundo";
+echo "Hola mundo modificado para Actividad 1.3";
 ?>
